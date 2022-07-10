@@ -20,9 +20,9 @@ This is an example of the results filtered by state:
 ![Search Reset Button](Images/Reset_button.png)
 
 - Improvements 
-    - The search results needed to be an exact match including capitals. I coded the search entries so even if the user used or did not use capitals they could search the results. 
+    - The search results needed to be an exact match including capitals. I coded the search entries so even if the user used or did not use capitals they could search the database and produce results.  
 
-    - Including a way for the user to crate a printable document would be a useful feature to add.
+    - Including a way for the user to create a printable document would be a useful feature to add.
 
     - An interactive map would make this webpage more dynamic and visually appealing to the user. 
 
